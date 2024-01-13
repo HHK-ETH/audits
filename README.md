@@ -45,7 +45,7 @@
 - Time spent: full time.
 - Notes: Second audit with YAudit, found a simple but interesting critical finding.
 
-### May 2023 - [VMEX incentives - YAudit security review](https://reports.yaudit.dev/reports/06-2023-VMEX-incentives/)
+### May 2023 - [VMEX incentives - YAudit](https://reports.yaudit.dev/reports/06-2023-VMEX-incentives/)
 - Results: 2 Highs, 1 medium, 3 lows, 1 gas and 2 infos.
 - Time spent: full time.
 - Notes: My first audit with YAudit after completing the YAcademy fellowship.
