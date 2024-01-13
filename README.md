@@ -5,7 +5,7 @@
 - Time spent: full time.
 - Notes: Interesting architecture, low amount of findings.
 
-### November 2023 - [Nouns Builder](https://audits.sherlock.xyz/contests/111)
+### November 2023 - [Nouns Builder - Sherlock contest](https://audits.sherlock.xyz/contests/111)
 - Results: 2 highs - top 10 / 297.
 - Time spent: 4 days.
 - Notes: Found all the highs so happy with the results.
