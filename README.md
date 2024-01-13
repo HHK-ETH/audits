@@ -43,7 +43,7 @@
 ### June 2023 - [Sickle - YAudit](https://reports.yaudit.dev/reports/06-2023-Sickle/)
 - Results: 1 critical, 1 high, 4 mediums, 5 lows, 7 gas and 4 infos.
 - Time spent: full time.
-- Notes: Second audit with YAudit, simple but interesting critical finding.
+- Notes: Second audit with YAudit, found a simple but interesting critical finding.
 
 ### May 2023 - [VMEX inentives - YAudit security review](https://reports.yaudit.dev/reports/06-2023-VMEX-incentives/)
 - Results: 2 Highs, 1 medium, 3 lows, 1 gas and 2 infos.
