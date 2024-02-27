@@ -1,5 +1,17 @@
 # List of security reviews
 
+### February 2024 - [Curve USD Lending - YAudit]()
+- Results: Not publicly available yet.
+- Time spent: full time.
+
+### January 2024 - [Dopex CLAMM revision - YAudit]()
+- Results: Not publicly available yet.
+- Time spent: full time.
+
+### January 2024 - [yPrisma - YAudit]()
+- Results: Not publicly available yet.
+- Time spent: full time.
+
 ### December 2023 - [Euler EVC - YAudit](https://reports.yaudit.dev/reports/12-2023-Euler-EVC/)
 - Results: 1 medium, 5 gas, 9 infos.
 - Time spent: full time.
@@ -13,7 +25,7 @@
 - Time spent: 6 days.
 
 ### October 2023 - Curve twocrypto - YAudit
-- Results: Not available yet.
+- Results: Not publicly available yet.
 - Time spent: part time.
 
 ### October 2023 - [Sickle update - YAudit](https://reports.yaudit.dev/reports/10-2023-Sickle-Update/)
@@ -43,6 +55,7 @@
 ### May 2023 - [JuiceBox - Code4rena contest](https://code4rena.com/audits/2023-05-juicebox-buyback-delegate#top)
 - Results: 1 medium - top 9 / 71
 - Time spent: 1.5 days.
+- 
 ### March 2023 - [Assymetry - Code4rena contest](https://code4rena.com/audits/2023-03-asymmetry-contest#top)
 - Results: 2 Highs - top 35 / 246
 - Time spent: 3 days.
