@@ -1,14 +1,14 @@
 # List of security reviews
 
-### February 2024 - [Curve USD Lending - YAudit]()
+### February 2024 - Curve USD Lending - YAudit
 - Results: Not publicly available yet.
 - Time spent: full time.
 
-### January 2024 - [Dopex CLAMM revision - YAudit]()
+### January 2024 - Dopex CLAMM revision - YAudit
 - Results: Not publicly available yet.
 - Time spent: full time.
 
-### January 2024 - [yPrisma - YAudit]()
+### January 2024 - yPrisma - YAudit
 - Results: Not publicly available yet.
 - Time spent: full time.
 
@@ -24,7 +24,7 @@
 - Results: 2 highs, 4 mediums (1 solo, 2 duo) - top 2 / 172.
 - Time spent: 6 days.
 
-### October 2023 - [Curve twocrypto - YAudit]()
+### October 2023 - Curve twocrypto - YAudit
 - Results: Not publicly available yet.
 - Time spent: part time.
 
