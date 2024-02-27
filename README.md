@@ -8,7 +8,7 @@
 - Results: Not publicly available yet.
 - Time spent: full time.
 
-### January 2024 - yPrisma - YAudit
+### January 2024 - Yearn yPrisma - YAudit
 - Results: Not publicly available yet.
 - Time spent: full time.
 
