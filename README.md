@@ -55,7 +55,7 @@
 ### May 2023 - [JuiceBox - Code4rena contest](https://code4rena.com/audits/2023-05-juicebox-buyback-delegate#top)
 - Results: 1 medium - top 9 / 71
 - Time spent: 1.5 days.
-- 
+
 ### March 2023 - [Assymetry - Code4rena contest](https://code4rena.com/audits/2023-03-asymmetry-contest#top)
 - Results: 2 Highs - top 35 / 246
 - Time spent: 3 days.
