@@ -4,8 +4,8 @@
 - Results: Not publicly available yet.
 - Time spent: full time.
 
-### January 2024 - Dopex CLAMM revision - YAudit
-- Results: Not publicly available yet.
+### January 2024 - [Dopex CLAMM revision - YAudit](https://reports.yaudit.dev/reports/01-2024-Dopex-CLAMM-V2/)
+- Results: 2 highs, 3 lows, 7 gas, 8 infod.
 - Time spent: full time.
 
 ### January 2024 - Yearn yPrisma - YAudit
