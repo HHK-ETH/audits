@@ -1,6 +1,6 @@
 # List of security reviews
 
-### March 2024 - Mento - [Sherlock contest](https://audits.sherlock.xyz/contests/187)
+### March 2024 - [Mento - Sherlock contest](https://audits.sherlock.xyz/contests/187)
 - Results: 1 medium - top 1 (tied with 6 others) / 37.
 - Time spent: full time - hired as reserved auditor.
 
