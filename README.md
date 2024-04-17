@@ -2,7 +2,7 @@
 
 ### March 2024 - [Mento - Sherlock contest](https://audits.sherlock.xyz/contests/187)
 - Results: 1 medium - top 1 (tied with 6 others) / 37.
-- Time spent: full time - hired as reserved auditor.
+- Time spent: 4 days - hired as reserved auditor.
 
 ### March 2024 - Stryke Lumbridge - YAudit
 - Results: Not publicly available yet.
@@ -48,9 +48,9 @@
 - Results: 3 Highs, 1 medium - top 27 / 148.
 - Time spent: 5 days.
 
-### August 2023 - [Tangible Caviar - Code4rena contest]()
+### August 2023 - [Tangible Caviar - Code4rena contest](https://code4rena.com/audits/2023-08-tangible-caviar#top)
 - Results: 4 Highs, 1 medium - top 58 / 148.
-- Time spent: 0.5 days.
+- Time spent: 0.5 maybe 1 day.
 
 ### June 2023 - [Sickle - YAudit](https://reports.yaudit.dev/reports/06-2023-Sickle/)
 - Results: 1 critical, 1 high, 4 mediums, 5 lows, 7 gas and 4 infos.
