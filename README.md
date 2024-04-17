@@ -1,5 +1,13 @@
 # List of security reviews
 
+### March 2024 - Mento - [Sherlock contest](https://audits.sherlock.xyz/contests/187)
+- Results: 1 medium - top 1 (tied with 6 others) / 37.
+- Time spent: full time - hired as reserved auditor.
+
+### March 2024 - Stryke Lumbridge - YAudit
+- Results: Not publicly available yet.
+- Time spent: full time.
+
 ### February 2024 - Curve USD Lending - YAudit
 - Results: Not publicly available yet.
 - Time spent: full time.
@@ -59,4 +67,3 @@
 ### March 2023 - [Assymetry - Code4rena contest](https://code4rena.com/audits/2023-03-asymmetry-contest#top)
 - Results: 2 Highs - top 35 / 246
 - Time spent: 3 days.
-- Notes: My first contest.
