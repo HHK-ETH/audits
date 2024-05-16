@@ -1,5 +1,13 @@
 # List of security reviews
 
+## May 2024 - Yearn STB - YAudit
+- Results: Not publicly available yet.
+- Time spent: full time.
+
+### March-May 2024 - Euler v2 - YAudit
+- Results: Not publicly available yet.
+- Time spent: full time.
+
 ### March 2024 - [Mento - Sherlock contest](https://audits.sherlock.xyz/contests/187)
 - Results: 1 medium - top 1 (tied with 6 others) / 37.
 - Time spent: 4 days - hired as reserved auditor.
@@ -13,11 +21,11 @@
 - Time spent: full time.
 
 ### January 2024 - [Dopex CLAMM revision - YAudit](https://reports.yaudit.dev/reports/01-2024-Dopex-CLAMM-V2/)
-- Results: 2 highs, 3 lows, 7 gas, 8 infod.
+- Results: 2 highs, 3 lows, 7 gas, 8 infos.
 - Time spent: full time.
 
-### January 2024 - Yearn yPrisma - YAudit
-- Results: Not publicly available yet.
+### January 2024 - [Yearn yPrisma - YAudit](https://reports.yaudit.dev/reports/01-2024-yPrisma/)
+- Results: 1 crit, 2 highs, 2 mediums, 1 low, 11 gas, 1 infos.
 - Time spent: full time.
 
 ### December 2023 - [Euler EVC - YAudit](https://reports.yaudit.dev/reports/12-2023-Euler-EVC/)
