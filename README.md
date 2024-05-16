@@ -1,11 +1,7 @@
 # List of security reviews
 
-## May 2024 - Yearn STB - YAudit
-- Results: Not publicly available yet.
-- Time spent: full time.
-
-### March-May 2024 - Euler v2 - YAudit
-- Results: Not publicly available yet.
+### March-April 2024 - [Euler v2 - YAudit](https://reports.yaudit.dev/reports/03-2024-EulerV2/)
+- Results: 1 crit, 1 high, 2 mediums, 7 lows, 9 gas, 10 infos.
 - Time spent: full time.
 
 ### March 2024 - [Mento - Sherlock contest](https://audits.sherlock.xyz/contests/187)
