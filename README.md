@@ -54,7 +54,7 @@
 
 ### August 2023 - [Tangible Caviar - Code4rena contest](https://code4rena.com/audits/2023-08-tangible-caviar#top)
 - Results: 4 Highs, 1 medium - top 58 / 148.
-- Time spent: 0.5 maybe 1 day.
+- Time spent: 1 day.
 
 ### June 2023 - [Sickle - YAudit](https://reports.yaudit.dev/reports/06-2023-Sickle/)
 - Results: 1 critical, 1 high, 4 mediums, 5 lows, 7 gas and 4 infos.
