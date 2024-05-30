@@ -1,5 +1,9 @@
 # List of security reviews
 
+### May 2024 - [Yearn STB - YAudit](https://reports.yaudit.dev/reports/05-2024-Yearn-STB-yAudit-report/)
+- Results: 3 lows, 2 gas, 8 infos.
+- Time spent: full time.
+
 ### March-April 2024 - [Euler v2 - YAudit](https://reports.yaudit.dev/reports/03-2024-EulerV2/)
 - Results: 1 crit, 1 high, 2 mediums, 7 lows, 9 gas, 10 infos.
 - Time spent: full time.
