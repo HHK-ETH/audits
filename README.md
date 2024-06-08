@@ -1,5 +1,9 @@
 # List of security reviews
 
+### May 2024 - [veASF - YAudit](https://reports.yaudit.dev/reports/06-2024-Asymmetry-veASF/)
+- Results: 3 gas, 6 infos.
+- Time spent: full time.
+
 ### May 2024 - [Yearn STB - YAudit](https://reports.yaudit.dev/reports/05-2024-Yearn-STB-yAudit-report/)
 - Results: 3 lows, 2 gas, 8 infos.
 - Time spent: full time.
