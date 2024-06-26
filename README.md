@@ -1,5 +1,9 @@
 # List of security reviews
 
+### June 2024 - Stake2Care - Solo audit
+- Results: Not publicly available yet.
+- Time spent: full time.
+
 ### May 2024 - [veASF - YAudit](https://reports.yaudit.dev/reports/06-2024-Asymmetry-veASF/)
 - Results: 3 gas, 6 infos.
 - Time spent: full time.
