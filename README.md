@@ -2,7 +2,7 @@
 
 ### June - July 2024 - [Euler v2 - Cantina contest](https://cantina.xyz/competitions/41306bb9-2bb8-4da6-95c3-66b85e11639f)
 - Hired as judge.
-- Time spent: full time.
+- Time spent: full/part time.
 
 ### June 2024 - Stake2Care - Solo audit
 - Results: Not publicly available yet.
