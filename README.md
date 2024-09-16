@@ -1,5 +1,21 @@
 # List of security reviews
 
+### September 2024 - Qantura Rebalance - YAudit
+- Results: Not publicly available yet.
+- Time spent: full time.
+
+### September 2024 - [Euler Price Oracles - YAudit](https://reports.yaudit.dev/reports/09-2024-Euler-price-oracles-update/)
+- Results: 1 high, 1 low, 1 info.
+- Time spent: full time.
+
+### September 2024 - Euler Yield Aggregator - YAudit
+- Results: Not publicly available yet.
+- Time spent: full time.
+
+### August 2024 - SentimentV2 - Sherlock contest
+- Results: Not publicly available yet.
+- Time spent: 5 days.
+
 ### July 2024 - ZkMarkets - Solo audit
 - Results: Not publicly available yet.
 - Time spent: full time.
