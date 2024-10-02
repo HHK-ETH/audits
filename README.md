@@ -1,6 +1,18 @@
 # List of security reviews
 
-### September 2024 - Qantura Rebalance - YAudit
+### September 2024 - Cadmos Pay - Solo review
+- Results: Not publicly available yet.
+- Time spent: full time.
+
+### September 2024 - [Euler Hook firewall - YAudi](https://reports.yaudit.dev/reports/09-2024-Euler-Hook-Target-Firewall/)
+- Results: 1 medium, 2 infos.
+- Time spent: full time.
+
+### September 2024 - [Euler Pendle adapter - YAudi](https://reports.yaudit.dev/reports/09-2024-Euler-PendleOracle/)
+- Results: 1 info.
+- Time spent: full time.
+
+### September 2024 - [Qantura Rebalance - YAudit](https://reports.yaudit.dev/reports/09-2024-Qantura-rebalance/)
 - Results: Not publicly available yet.
 - Time spent: full time.
 
@@ -16,7 +28,7 @@
 - Results: Not publicly available yet.
 - Time spent: 5 days.
 
-### July 2024 - ZkMarkets - Solo audit
+### July 2024 - ZkMarkets - Solo review
 - Results: Not publicly available yet.
 - Time spent: full time.
 
@@ -24,7 +36,7 @@
 - Hired as judge.
 - Time spent: full/part time.
 
-### June 2024 - Stake2Care - Solo audit
+### June 2024 - Stake2Care - Solo review
 - Results: Not publicly available yet.
 - Time spent: full time.
 
