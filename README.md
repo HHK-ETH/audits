@@ -1,10 +1,14 @@
 # List of security reviews
 
+### October 2024 - [Euler ERC20 Wrapper Locked - YAudit](https://reports.yaudit.dev/reports/10-2024-Euler-ERC20-Wrapper-Locked/)
+- Results: 1 low, 3 infos.
+- Time spent: full time.
+
 ### September 2024 - Cadmos Pay - Solo review
 - Results: Not publicly available yet.
 - Time spent: full time.
 
-### September 2024 - [Euler Hook firewall - YAudi](https://reports.yaudit.dev/reports/09-2024-Euler-Hook-Target-Firewall/)
+### September 2024 - [Euler Hook firewall - YAudit](https://reports.yaudit.dev/reports/09-2024-Euler-Hook-Target-Firewall/)
 - Results: 1 medium, 2 infos.
 - Time spent: full time.
 
@@ -24,8 +28,8 @@
 - Results: Not publicly available yet.
 - Time spent: full time.
 
-### August 2024 - SentimentV2 - Sherlock contest
-- Results: Not publicly available yet.
+### August 2024 - [SentimentV2 - Sherlock contest](https://audits.sherlock.xyz/contests/349/leaderboard)
+- Results: 1 high, 4 mediums - top 4 / 78.
 - Time spent: 5 days.
 
 ### July 2024 - ZkMarkets - Solo review
