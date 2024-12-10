@@ -1,5 +1,17 @@
 # List of security reviews
 
+### October 2024 - MarginZero - YAudit
+- Results: Not publicly available yet.
+- Time spent: full time.
+
+### October 2024 - [Obelisk - YAudit](https://reports.yaudit.dev/reports/10-2024-Obelisk/)
+- Results: 2 criticals, 3 highs, 4 mediums, 6 low, 22 gas, 4 infos.
+- Time spent: full time.
+
+### October 2024 - [GuessOurBlock - YAudit](https://reports.yaudit.dev/reports/10-2024-GuessOurBlock/)
+- Results: 6 medium, 3 lows, 4 gas, 7 infos.
+- Time spent: full time.
+
 ### October 2024 - [Euler ERC20 Wrapper Locked - YAudit](https://reports.yaudit.dev/reports/10-2024-Euler-ERC20-Wrapper-Locked/)
 - Results: 1 low, 3 infos.
 - Time spent: full time.
