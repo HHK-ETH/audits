@@ -1,7 +1,15 @@
 # List of security reviews
 
-### October 2024 - MarginZero - YAudit
+### January 2025 - Stake2Care update - Solo review
 - Results: Not publicly available yet.
+- Time spent: full time.
+
+### November-December 2024 - Resupply Finance - YAudit
+- Results: Not publicly available yet.
+- Time spent: full time.
+
+### October 2024 - [MarginZero - YAudit](https://reports.yaudit.dev/reports/11-2024-MarginZero/)
+- Results: 1 high, 2 mediums, 8 lows, 7 gas, 7 infos.
 - Time spent: full time.
 
 ### October 2024 - [Obelisk - YAudit](https://reports.yaudit.dev/reports/10-2024-Obelisk/)
