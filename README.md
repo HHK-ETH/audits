@@ -2,7 +2,7 @@
 
 ### 2025
 
-- March - Caps premmainnet vault - Electisec
+- March - [Caps premmainnet vault - Electisec](https://reports.electisec.tech/reports/03-2025-CAP-PremainnetVault)
 - March - KittyPunch Protocol - Zenith
 - February - Satoshi Protocol - Zenith
 - February-March - Various Euler PRs - Electisec
@@ -10,7 +10,7 @@
 
 ### 2024
 
-- November-December - Resupply Finance - YAudit
+- November-December - [Resupply Finance - YAudit](https://reports.electisec.tech/reports/12-2024-ResupplyFinance)
 - October - [MarginZero - YAudit](https://reports.yaudit.dev/reports/11-2024-MarginZero/)
 - October  - [Obelisk - YAudit](https://reports.yaudit.dev/reports/10-2024-Obelisk/)
 - October - [GuessOurBlock - YAudit](https://reports.yaudit.dev/reports/10-2024-GuessOurBlock/)
