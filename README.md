@@ -2,6 +2,13 @@
 
 ### 2025
 
+- April-May - [Cozy Safety Module Reward Manager - Electisec](https://reports.electisec.com/05-2025-Cozy-Safety-module-Reward-Manager)
+- April-May - Cozy Safety Module Euler CSM - Electisec
+- April-May - [Cozy Safety Module - Electisec](https://reports.electisec.com/05-2025-Cozy-Safety-Module)
+- April - Twyne - Electisec
+- April - [Asymmetry Dasf - Electisec](https://reports.electisec.com/04-2025-Asymmetry-dASF)
+- March - Beefy Sonic - Electisec
+- March - Euler EVK periphery PR#261 - Electisec
 - March - [Caps premmainnet vault - Electisec](https://reports.electisec.com/reports/03-2025-CAP-PremainnetVault)
 - March - KittyPunch Protocol - Zenith
 - February - Satoshi Protocol - Zenith
