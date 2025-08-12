@@ -2,6 +2,14 @@
 
 ### 2025
 
+- July - Resupply savings - Electisec
+- July - Resupply hack fixes - Electisec
+- July - Yield Basis - Electisec
+- June - Centrifuge v3 - Electisec
+- June - Twyne update - Electisec
+- June - OpenState - Electisec
+- May - Cap Pre-mainnet vault - Electisec
+- May - Asymmetry USDaf - Electisec
 - April-May - [Cozy Safety Module Reward Manager - Electisec](https://reports.electisec.com/05-2025-Cozy-Safety-module-Reward-Manager)
 - April-May - Cozy Safety Module Euler CSM - Electisec
 - April-May - [Cozy Safety Module - Electisec](https://reports.electisec.com/05-2025-Cozy-Safety-Module)
