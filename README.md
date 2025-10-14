@@ -2,6 +2,12 @@
 
 ### 2025
 
+- October - Euler synth / FeeFlow - Electisec
+- October - Flower swap - Enigma Dark
+- September - Resupply Curvelend - Electisec
+- September - Goldilend - Electisec
+- August - HaiVelo - Electisec
+- August - Twyne update - Electisec
 - July - Resupply savings - Electisec
 - July - Resupply hack fixes - Electisec
 - July - Yield Basis - Electisec
