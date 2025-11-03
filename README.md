@@ -2,6 +2,7 @@
 
 ### 2025
 
+- October - Likwid - Zenith
 - October - Euler synth / FeeFlow - Electisec
 - October - Flower swap - Enigma Dark
 - September - Resupply Curvelend - Electisec
