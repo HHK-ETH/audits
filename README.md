@@ -2,7 +2,7 @@
 
 ### 2026
 
-- Fabruary - Hai Curve stableswap oracle - yAudit
+- February - Hai Curve stableswap oracle - yAudit
 - February - Twyne Q1 updates - yAudit
 - January - Paxos update - yAudit
 - January - Euler Layer-credit - yAudit
